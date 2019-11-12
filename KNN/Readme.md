@@ -14,5 +14,7 @@ when the number of data points increase in the training data set calculating dis
 There are 3 methods to calculate the distance and which method will help to overcome this challenge will be addressed.
 
 ### Method-1
+
 ### Method-2
+
 ### Method-3
